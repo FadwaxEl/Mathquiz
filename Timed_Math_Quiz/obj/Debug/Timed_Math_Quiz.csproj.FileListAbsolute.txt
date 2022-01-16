@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\bin\Debug\Timed_Math_Quiz.exe.config
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\bin\Debug\Timed_Math_Quiz.exe
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\bin\Debug\Timed_Math_Quiz.pdb
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\obj\Debug\Timed_Math_Quiz.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\obj\Debug\Timed_Math_Quiz.Form1.resources
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\obj\Debug\Timed_Math_Quiz.Properties.Resources.resources
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\obj\Debug\Timed_Math_Quiz.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\obj\Debug\Timed_Math_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\obj\Debug\Timed_Math_Quiz.exe
+C:\Users\admin\source\repos\Timed_Math_Quiz\Timed_Math_Quiz\obj\Debug\Timed_Math_Quiz.pdb

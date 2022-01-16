@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timed_Math_Quiz", "Timed_Math_Quiz\Timed_Math_Quiz.csproj", "{8F1B462F-5530-4CD5-AB01-A9D4A95D23F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1B462F-5530-4CD5-AB01-A9D4A95D23F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1B462F-5530-4CD5-AB01-A9D4A95D23F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1B462F-5530-4CD5-AB01-A9D4A95D23F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1B462F-5530-4CD5-AB01-A9D4A95D23F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A7534D-DD68-4398-9FD4-84F1FF7EDB71}
+	EndGlobalSection
+EndGlobal
